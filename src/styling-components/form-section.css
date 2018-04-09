@@ -1,0 +1,14 @@
+.form-button {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    background-color: white;
+    border: none;
+    color: #394264;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 900;
+    margin: 4px 2px;
+    cursor: pointer;
+}
